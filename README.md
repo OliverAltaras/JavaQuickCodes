@@ -1,5 +1,5 @@
 # JavaQuickCodes
-Little applications for algorithmic problems
+Simple applications for algorithmic problems
 
 This repository contains a few brief Java codes that Oliver developed in order to solve small algorithmic problems.
 
